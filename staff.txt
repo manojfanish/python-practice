@@ -1,0 +1,6 @@
+Manoj,Chennai,50000
+Ann,Mumbai,29000
+Raj,Chennai,35000
+Lee,Pune,41000
+Priya,Mumbai,abc
+Sam,Pune,28000
